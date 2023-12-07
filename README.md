@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @axelnguyen0701
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS and NodeJs
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me:
   +Email: axelnguyen0701@gmail.com
