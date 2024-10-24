@@ -3,7 +3,6 @@
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me:
   +Email: axelnguyen0701@gmail.com
-  +Phone: 780-850-0887
 
 <!---
 axelnguyen0701/axelnguyen0701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
